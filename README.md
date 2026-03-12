@@ -1,6 +1,6 @@
 <div align="center">
 
-```javascript
+``javascript
 const levi = {
   name: "Leví Dias",
   role: "Frontend Developer → Fullstack",
