@@ -56,7 +56,7 @@ Atualmente expandindo para o ecossistema **Fullstack** 🚀
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Meus Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
