@@ -23,7 +23,7 @@ Construindo aplicações web reais — do redesign de interfaces ao desenvolvime
 Atualmente expandindo para o ecossistema **Fullstack** 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-levi-dias.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levi-dias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lev%C3%AD-dias/)
 
 </div>
 
